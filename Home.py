@@ -27,7 +27,7 @@ I know that the client’s business comes first, and client satisfaction is alwa
 I have worked under Agile, DevOps and SDLC (V model) methodology 
 I have done my post-graduation degree M.C.A. from the International Institute of Professional Studies, DAVV university."""
 
-content5 = """ Below are various organization i have worked and learning various skill of software engineering """
+content5 = """ Below are various organization i have worked and learned various skill of software engineering """
 content6 = """ I have made this website as part of learning process to learn Python and various streamlit utilities"""
 
 

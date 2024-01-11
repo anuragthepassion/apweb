@@ -88,7 +88,7 @@ st.markdown("""-  worked as acting lead in Maintenance project and resolving tic
 
 
 st.info("- Client : Intesa sanopolo, Italy ")
-st.write("""Mainframe, Cobol, JCL , DB2, , Cobol, Java ,Endeavour, testing , JCL
+st.write("""Mainframe, Cobol,CICS, JCL , DB2, , Cobol, Java ,Endeavour, testing , JCL
 Module : Banking (Loan)
 Tools : LMS, CA7, File-Aid
 Experience : """)
@@ -111,7 +111,7 @@ st.markdown("""(1) Created Technical Design based on SRS.
 
 st.info("- Client : Bajaj Allianz, India")
 st.write("""Application module : General insurance
-Technology : Cobol, JCL, DB2,""")
+Technology : Cobol,CICS, JCL, DB2,""")
 st.markdown("""(1) Develop code for various enhancement project during the tenure. 
 
 (2) Created Functional design from the SRS received from the client team
